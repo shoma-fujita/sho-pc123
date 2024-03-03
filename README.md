@@ -1,5 +1,5 @@
 <h2>
-  💻my skills(I'm still learning)
+  💻my skills(全然一人前ではなく、まだまだ勉強中です！！！！！！！！！！)
 </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,vue,nuxtjs,php,laravel,vscode,git,github,docker,aws)](https://skillicons.dev)
